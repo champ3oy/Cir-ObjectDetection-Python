@@ -1,3 +1,5 @@
+## Usage  python yolo.py [path to image]
+
 import cv2
 import numpy as np
 import argparse
